@@ -1,3 +1,6 @@
+
+https://drive.google.com/drive/folders/1kBOBUI0E1pTlnn5ohyjrWmlKBl6na_Kv
+
 #zad1
 # A = [1+x for x in range(0,10)]
 # # print(a)
